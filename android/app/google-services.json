@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "686668972847",
+    "project_id": "baat-d808f",
+    "storage_bucket": "baat-d808f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686668972847:android:9f6481358c5b454bee57da",
+        "android_client_info": {
+          "package_name": "com.example.shopnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686668972847-jn05obqspv91p7416qbdokvk5u89hr0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD3SafR1x4Neb4KoWgCtN_nq3hQj-UbE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686668972847-jn05obqspv91p7416qbdokvk5u89hr0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686668972847-ersfkii6iabnv5u9vkepoh6fokbkjarb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopnow.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
